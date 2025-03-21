@@ -1,0 +1,43 @@
+#boom {
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    max-width: 300px;
+}
+
+#increment-value {
+    height: 30px;
+    width: 30px;
+    border-style: solid;
+}
+
+#limit {
+    height: 30px;
+    width: 30px;
+    border-style: solid;
+}
+
+#increment {
+    height: 80px;
+    width: 80px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+#decrement {
+    height: 80px;
+    width: 80px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-size: 80px;
+    font-weight: bold;
+}
